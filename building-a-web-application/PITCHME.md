@@ -121,7 +121,7 @@ def foo(name):
 ```
 > myapp.py
 
-```html
+```javascript
 <html>
     <body>
         <h1>Hello, {{to}}!</h1>
